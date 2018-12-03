@@ -25,7 +25,7 @@ const mocks = [
     result: {
       data: {
         state: {
-          count: 0, // we can't really test to see if this works because the mocks have nothing to do with our actual store :(
+          count: 0, // we can't test to see if this works because the mocks have nothing to do with our actual store :(
         },
       },
     },
